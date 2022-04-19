@@ -1,0 +1,39 @@
+html {
+    background: rgb(126, 255, 163);
+
+}
+.nav__buttons {
+    padding: 20px;
+
+}
+.nav__buttons2 {
+    font-size: 16px;
+    margin: 1px;
+}
+.logo_background {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background: black;
+    max-width: 90px;
+}
+.logo_text {
+    font-family: 'ArimaKoshi-Regular';
+    color: white;
+    position: relative;
+    top: -15px;
+}
+.logo_text1 {
+    position: relative;
+    top: 25px;
+    font-family: 'ArimaKoshi-Regular';
+
+}
+.logo_text2 {
+    font-family: 'ArimaKoshi-Regular';
+
+}
+@font-face {
+    font-family: 'ArimaKoshi-Regular';
+    src: url(/sources/ArimaKoshi-Regular.otf);
+}
